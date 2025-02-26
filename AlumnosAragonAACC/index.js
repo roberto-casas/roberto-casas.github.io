@@ -194,7 +194,8 @@ $(document).ready(function() {
             for(let key in data[i]) { 
               if(key != "localizacion") {
                 if(key == "colegio" || data[i][key] > 0) {
-                content.innerHTML += `<b>${key}:</b> ${data[i][key]}<br>`;
+                  content.innerHTML += `<b>${key}:</b> ${data[i][key]}<br>`;
+                }
               }
             }
             toastr.success(content.innerHTML, null, {
