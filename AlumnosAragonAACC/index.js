@@ -33,8 +33,6 @@ function initMap() {
 
   });
 
-  let zoom = 8;
-
   map.addListener("zoom_changed", () => {
     console.log("zoom_changed");
     zoom = map.getZoom();
