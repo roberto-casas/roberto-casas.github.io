@@ -35,7 +35,7 @@ function initMap() {
 
   map.addListener("zoom_changed", () => {
     console.log("zoom_changed");
-    zoom = map.getZoom();
+    let zoom = map.getZoom();
 
     console.log(zoom);
     if (zoom) {
