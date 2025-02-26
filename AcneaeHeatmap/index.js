@@ -179,17 +179,14 @@ $(document).ready(function() {
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
-            scale: 1.5,
+            scale: 5,
         });
-
-        let content = document.createElement("div");
-        content.innerHTML = data[i].colegio;
 
         let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
             title: data[i].colegio,
             map: null,
-            content: content,
+            content: pin.element,
         });
         markers.push(marker);
     }
