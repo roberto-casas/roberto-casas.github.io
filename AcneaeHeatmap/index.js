@@ -189,7 +189,14 @@ $(document).ready(function() {
         });
 
         marker.addListener("click", () => {
-            toastr.success(data[i].colegio);
+            let content = document.createElement("div");
+            // Add all data to content by lines
+            for(let key in data[i]) { 
+                content.innerHTML += `<b>${key}:</b> ${data[i][key]}<br>`;
+            }
+            toastr.success(content.innerHTML, null, {
+                closeButton: true
+            });
         });
         markers.push(marker);
     }
