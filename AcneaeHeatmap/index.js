@@ -39,7 +39,7 @@ function initMap() {
     if (zoom) {
       // Only show each marker above a certain zoom level.
       markers.forEach(marker => {
-        marker.map = zoom > 14 ? map : null;
+        marker.map = zoom > 11 ? map : null;
       });
     }
   });
