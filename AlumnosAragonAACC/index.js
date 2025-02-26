@@ -90,7 +90,7 @@ function toggleTotales() {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].total });
+        points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Total });
     }
 
     heatmap = new google.maps.visualization.HeatmapLayer({
@@ -109,8 +109,8 @@ function toggleInfantil() {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        if(data[i].infantil > 0) {
-            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].infantil });
+        if(data[i].Infantil > 0) {
+            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Infantil });
         }
     }
 
@@ -124,8 +124,8 @@ function togglePrimaria() {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        if(data[i].primaria > 0) {
-            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].primaria });
+        if(data[i].Primaria > 0) {
+            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Primaria });
         }
     }
 
@@ -138,8 +138,8 @@ function toggleBachillerato() {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        if(data[i].bachillerato > 0) {
-            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].bachillerato });
+        if(data[i].Bachillerato > 0) {
+            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Bachillerato });
         }
     }
 
@@ -152,8 +152,8 @@ function toggleESO() {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        if(data[i].eso > 0) {
-            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].eso });
+        if(data[i].ESO > 0) {
+            points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].ESO });
         }
     }
 
@@ -179,7 +179,7 @@ $(document).ready(function() {
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
-            scale: 1.5,
+            scale: 0.8,
         });
 
         let marker = new AdvancedMarkerElement({

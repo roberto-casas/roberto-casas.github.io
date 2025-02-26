@@ -1,1397 +1,1397 @@
 [
     {
-        "colegio": "Agustina de Aragón (C.P. Zaragoza)",
+        "Colegio": "Agustina de Aragón (C.P. Zaragoza)",
         "localizacion": "41.6887589, -0.8727393999999999",
-        "infantil": 0,
-        "primaria": 5,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 5,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "Alejo Lorén Albareda (C.P. Caspe)",
+        "Colegio": "Alejo Lorén Albareda (C.P. Caspe)",
         "localizacion": "41.2327618, -0.0459513",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Alto Gállego (C.R.A. Biescas)",
+        "Colegio": "Alto Gállego (C.R.A. Biescas)",
         "localizacion": "42.5250446, -0.3604989",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Andalán (I.E.S. Zaragoza)",
+        "Colegio": "Andalán (I.E.S. Zaragoza)",
         "localizacion": "41.6608622, -0.9037975",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Ángel Escoriaza (C.P. Cartuja Baja)",
+        "Colegio": "Ángel Escoriaza (C.P. Cartuja Baja)",
         "localizacion": "41.6075954, -0.8243054",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Ángel Sanz Briz (I.E.S. Casetas)",
+        "Colegio": "Ángel Sanz Briz (I.E.S. Casetas)",
         "localizacion": "41.7229559, -1.0246588",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Arcosur (C.P.I. Zaragoza)",
+        "Colegio": "Arcosur (C.P.I. Zaragoza)",
         "localizacion": "41.6249276, -0.9573942999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Avempace (I.E.S. Zaragoza)",
+        "Colegio": "Avempace (I.E.S. Zaragoza)",
         "localizacion": "41.6774154, -0.8767676",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Bajo Aragón (I.E.S. Alcañiz)",
+        "Colegio": "Bajo Aragón (I.E.S. Alcañiz)",
         "localizacion": "41.0510353, -0.1335373",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Basilio Paraíso (C.P. Zaragoza)",
+        "Colegio": "Basilio Paraíso (C.P. Zaragoza)",
         "localizacion": "41.6385533, -0.8939028",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Benedicto XIII (C.P. Illueca)",
+        "Colegio": "Benedicto XIII (C.P. Illueca)",
         "localizacion": "41.5368424, -1.6252862",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Benjamín Jarnés (I.E.S. Fuentes de Ebro)",
+        "Colegio": "Benjamín Jarnés (I.E.S. Fuentes de Ebro)",
         "localizacion": "41.5082405, -0.6301905999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Biello Aragón (I.E.S. Sabiñánigo)",
+        "Colegio": "Biello Aragón (I.E.S. Sabiñánigo)",
         "localizacion": "42.5030131, -0.3616008",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Brianda de Luna (C.P. Alfajarín)",
+        "Colegio": "Brianda de Luna (C.P. Alfajarín)",
         "localizacion": "41.6109549, -0.7022394",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Cabañas (I.E.S. La Almunia de Doña Godina)",
+        "Colegio": "Cabañas (I.E.S. La Almunia de Doña Godina)",
         "localizacion": "41.4710945, -1.3703529",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Campo de Borja (C.P. Borja)",
+        "Colegio": "Campo de Borja (C.P. Borja)",
         "localizacion": "-4.4712362, -77.54402879999999",
-        "infantil": 1,
-        "primaria": 0,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 1,
+        "Primaria": 0,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Cardenal Xavierre (C. Zaragoza)",
+        "Colegio": "Cardenal Xavierre (C. Zaragoza)",
         "localizacion": "41.6417518, -0.8957436",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Cervantes (C.P. Pedrola)",
+        "Colegio": "Cervantes (C.P. Pedrola)",
         "localizacion": "41.79022, -1.2146283",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Cierzo (I.E.S La Muela)",
+        "Colegio": "Cierzo (I.E.S La Muela)",
         "localizacion": "41.5858908, -1.1140368",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Clara Campoamor Rodríguez (I.E.S. Zaragoza)",
+        "Colegio": "Clara Campoamor Rodríguez (I.E.S. Zaragoza)",
         "localizacion": "41.68961609999999, -0.8731431",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Colegio El Salvador zargoza",
+        "Colegio": "Colegio El Salvador zargoza",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Colegio Mariano Castillo",
+        "Colegio": "Colegio Mariano Castillo",
         "localizacion": "41.6863203, -0.7683673999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Colegio Público de Olba",
+        "Colegio": "Colegio Público de Olba",
         "localizacion": "40.1327101, -0.6257463",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Colegio rural agrupado La Sabina",
+        "Colegio": "Colegio rural agrupado La Sabina",
         "localizacion": "41.869964, -0.462401",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Compromiso de Caspe (C.P. Caspe)",
+        "Colegio": "Compromiso de Caspe (C.P. Caspe)",
         "localizacion": "41.2354545, -0.0366896",
-        "infantil": 1,
-        "primaria": 5,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 6
+        "Infantil": 1,
+        "Primaria": 5,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 6
     },
     {
-        "colegio": "Cristo Rey (C. Zaragoza)",
+        "Colegio": "Cristo Rey (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Cuevas del Jalón (C.R.A. Lumpiaque)",
+        "Colegio": "Cuevas del Jalón (C.R.A. Lumpiaque)",
         "localizacion": "41.6300008, -1.3023473",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Damián Forment (I.E.S. Alcorisa)",
+        "Colegio": "Damián Forment (I.E.S. Alcorisa)",
         "localizacion": "40.8930228, -0.3824868",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Diego Escolano (C.P. Longares)",
+        "Colegio": "Diego Escolano (C.P. Longares)",
         "localizacion": "41.4014381, -1.1680551",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Diputación Provincial (C.P. Brea de Aragón)",
+        "Colegio": "Diputación Provincial (C.P. Brea de Aragón)",
         "localizacion": "41.5239322, -1.5996085",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Domingo Jiménez Beltrán (C.P. Calatorao)",
+        "Colegio": "Domingo Jiménez Beltrán (C.P. Calatorao)",
         "localizacion": "41.5259398, -1.3442681",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Domingo Miral (I.E.S. Jaca)",
+        "Colegio": "Domingo Miral (I.E.S. Jaca)",
         "localizacion": "42.568255, -0.5535489",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "El Buen Pastor (C. Zaragoza)",
+        "Colegio": "El Buen Pastor (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "El Espartidero (C.P.I. Zaragoza)",
+        "Colegio": "El Espartidero (C.P.I. Zaragoza)",
         "localizacion": "41.6693904, -0.8230234999999999",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "El Picarral (I.E.S. Zaragoza)",
+        "Colegio": "El Picarral (I.E.S. Zaragoza)",
         "localizacion": "41.67516490000001, -0.8746636",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 1,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 1,
+        "Total": 3
     },
     {
-        "colegio": "El Pilar-Maristas (C. Zaragoza)",
+        "Colegio": "El Pilar-Maristas (C. Zaragoza)",
         "localizacion": "41.6688899, -0.8824576",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 6,
-        "bachillerato": 0,
-        "total": 7
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 6,
+        "Bachillerato": 0,
+        "Total": 7
     },
     {
-        "colegio": "El Portillo (I.E.S. Zaragoza)",
+        "Colegio": "El Portillo (I.E.S. Zaragoza)",
         "localizacion": "41.65523899999999, -0.9000397000000001",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Escolapias Santa Engracia (C.P. Santa Engracia)",
+        "Colegio": "Escolapias Santa Engracia (C.P. Santa Engracia)",
         "localizacion": "41.6327763, -0.8707222",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Escuelas Pías (C. Jaca)",
+        "Colegio": "Escuelas Pías (C. Jaca)",
         "localizacion": "42.5685205, -0.5481138",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Escuelas Pías (C. Zaragoza)",
+        "Colegio": "Escuelas Pías (C. Zaragoza)",
         "localizacion": "41.654511, -0.8850277",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Fernando Lázaro Carreter (I.E.S. Utrillas)",
+        "Colegio": "Fernando Lázaro Carreter (I.E.S. Utrillas)",
         "localizacion": "40.815269, -0.8507389999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Florián Rey (C.P. La Almunia de Doña Godina)",
+        "Colegio": "Florián Rey (C.P. La Almunia de Doña Godina)",
         "localizacion": "41.48146, -1.3740161",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Foro Romano (C.P. Cuarte de Huerva)",
+        "Colegio": "Foro Romano (C.P. Cuarte de Huerva)",
         "localizacion": "41.5851567, -0.9440981",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Francés de Aranda (I.E.S. Teruel)",
+        "Colegio": "Francés de Aranda (I.E.S. Teruel)",
         "localizacion": "40.3513537, -1.1099489",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Guillermo Fatás (C.P. Zaragoza)",
+        "Colegio": "Guillermo Fatás (C.P. Zaragoza)",
         "localizacion": "41.6698537, -0.8308239",
-        "infantil": 0,
-        "primaria": 5,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 5,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "Hermanos Argensola (I.E.S. Barbastro)",
+        "Colegio": "Hermanos Argensola (I.E.S. Barbastro)",
         "localizacion": "42.0300865, 0.1343338",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Hermanos Marx (C.P. Zaragoza)",
+        "Colegio": "Hermanos Marx (C.P. Zaragoza)",
         "localizacion": "41.6776792, -0.8830995",
-        "infantil": 0,
-        "primaria": 4,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 4,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Hijas de San José (C. Zaragoza)",
+        "Colegio": "Hijas de San José (C. Zaragoza)",
         "localizacion": "41.6490127, -0.9006587",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Hilarión Gimeno (C.P. Zaragoza)",
+        "Colegio": "Hilarión Gimeno (C.P. Zaragoza)",
         "localizacion": "41.65950460000001, -0.8676547",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Inmaculada Concepción (C. Zaragoza)",
+        "Colegio": "Inmaculada Concepción (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Instituto de educación secundaria Alagón",
+        "Colegio": "Instituto de educación secundaria Alagón",
         "localizacion": "39.9923276, -6.542023899999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 0,
-        "bachillerato": 1,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 0,
+        "Bachillerato": 1,
+        "Total": 1
     },
     {
-        "colegio": "Internacional Ánfora (C. Cuarte de Huerva)",
+        "Colegio": "Internacional Ánfora (C. Cuarte de Huerva)",
         "localizacion": "41.5805327, -0.9527656",
-        "infantil": 0,
-        "primaria": 6,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 8
+        "Infantil": 0,
+        "Primaria": 6,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 8
     },
     {
-        "colegio": "Ítaca (I.E.S. Zaragoza)",
+        "Colegio": "Ítaca (I.E.S. Zaragoza)",
         "localizacion": "41.672735, -0.8300160999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 4,
-        "bachillerato": 1,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 4,
+        "Bachillerato": 1,
+        "Total": 5
     },
     {
-        "colegio": "Jerónimo Zurita y Castro (C.P. Zaragoza)",
+        "Colegio": "Jerónimo Zurita y Castro (C.P. Zaragoza)",
         "localizacion": "41.6636847, -0.8989562",
-        "infantil": 0,
-        "primaria": 5,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 5,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "Joaquín Costa (I.E.S. Cariñena)",
+        "Colegio": "Joaquín Costa (I.E.S. Cariñena)",
         "localizacion": "41.3397369, -1.2263242",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 0,
-        "bachillerato": 1,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 0,
+        "Bachillerato": 1,
+        "Total": 1
     },
     {
-        "colegio": "José Manuel Blecua (I.E.S. Zaragoza)",
+        "Colegio": "José Manuel Blecua (I.E.S. Zaragoza)",
         "localizacion": "41.6249166, -0.8790821",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Juan de Lanuza (I.E.S. Borja)",
+        "Colegio": "Juan de Lanuza (I.E.S. Borja)",
         "localizacion": "41.8337821, -1.5294505",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Juan Pablo Bonet (C.P. Movera)",
+        "Colegio": "Juan Pablo Bonet (C.P. Movera)",
         "localizacion": "41.6687715, -0.8390367999999999",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Juan XXIII (C.P. Huesca)",
+        "Colegio": "Juan XXIII (C.P. Huesca)",
         "localizacion": "42.1363892, -0.4147539",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Julio Verne (C.P.I. Zaragoza)",
+        "Colegio": "Julio Verne (C.P.I. Zaragoza)",
         "localizacion": "41.65744562549206, -0.9240903811981169",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "L' Albada (C.R.A. Bujaraloz)",
+        "Colegio": "L' Albada (C.R.A. Bujaraloz)",
         "localizacion": "41.4994056, -0.1521071",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "L' Albardín (C.R.A. Azuara)",
+        "Colegio": "L' Albardín (C.R.A. Azuara)",
         "localizacion": "41.2587284, -0.8731376000000001",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "La Almozara (C.P. Zaragoza)",
+        "Colegio": "La Almozara (C.P. Zaragoza)",
         "localizacion": "41.6597461, -0.9064036",
-        "infantil": 1,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 1,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "La Cabañeta (C.P.I. Burgo de Ebro (El))",
+        "Colegio": "La Cabañeta (C.P.I. Burgo de Ebro (El))",
         "localizacion": "41.5650515, -0.712332",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "La Fuenfresca (C.P. Teruel)",
+        "Colegio": "La Fuenfresca (C.P. Teruel)",
         "localizacion": "40.3293651, -1.0949401",
-        "infantil": 0,
-        "primaria": 5,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 5,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "La Jota (C.P.I. Zaragoza)",
+        "Colegio": "La Jota (C.P.I. Zaragoza)",
         "localizacion": "41.6618738, -0.8618518",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "La Merced (C.P. Barbastro)",
+        "Colegio": "La Merced (C.P. Barbastro)",
         "localizacion": "42.033222, 0.1217132",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "La Puebla de Alfindén (I.E.S. La Puebla de Alfindén)",
+        "Colegio": "La Puebla de Alfindén (I.E.S. La Puebla de Alfindén)",
         "localizacion": "41.6337856, -0.7582584",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "La Sabina (C.R.A. Villafranca de Ebro)",
+        "Colegio": "La Sabina (C.R.A. Villafranca de Ebro)",
         "localizacion": "41.5751761, -0.6482321999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "La Salle Franciscanas (C. Zaragoza)",
+        "Colegio": "La Salle Franciscanas (C. Zaragoza)",
         "localizacion": "41.63991679999999, -0.8945951999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "La Salle Montemolín (C. Zaragoza)",
+        "Colegio": "La Salle Montemolín (C. Zaragoza)",
         "localizacion": "41.636958, -0.870562",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "La Salle-San José (C. Teruel)",
+        "Colegio": "La Salle-San José (C. Teruel)",
         "localizacion": "40.3340673, -1.0996001",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Las Fuentes (C.P. Zaragoza)",
+        "Colegio": "Las Fuentes (C.P. Zaragoza)",
         "localizacion": "41.64734809999999, -0.8661078",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Las Viñas (C. Teruel)",
+        "Colegio": "Las Viñas (C. Teruel)",
         "localizacion": "40.3494926, -1.1123369",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Leonardo de Chabacier (I.E.S. Calatayud)",
+        "Colegio": "Leonardo de Chabacier (I.E.S. Calatayud)",
         "localizacion": "41.3548451, -1.639634",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 1,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 1,
+        "Total": 3
     },
     {
-        "colegio": "Lucas Arribas (C.P. Morata de Jalón)",
+        "Colegio": "Lucas Arribas (C.P. Morata de Jalón)",
         "localizacion": "41.4748235, -1.4725893",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Lucas Mallada (I.E.S. Huesca)",
+        "Colegio": "Lucas Mallada (I.E.S. Huesca)",
         "localizacion": "42.1354445, -0.404069",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Madre María Rosa Molas (C. Zaragoza)",
+        "Colegio": "Madre María Rosa Molas (C. Zaragoza)",
         "localizacion": "41.6285681, -0.9071452",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 6
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 6
     },
     {
-        "colegio": "Maestro Monreal (C.P.I. Ricla)",
+        "Colegio": "Maestro Monreal (C.P.I. Ricla)",
         "localizacion": "41.5113482, -1.4010013",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Mar de Aragón (I.E.S. Caspe)",
+        "Colegio": "Mar de Aragón (I.E.S. Caspe)",
         "localizacion": "41.2325557, -0.0434707",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Margarita Salas (C.P. Zaragoza)",
+        "Colegio": "Margarita Salas (C.P. Zaragoza)",
         "localizacion": "41.6570646, -0.9326258",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "María Auxiliadora (C. Zaragoza)",
+        "Colegio": "María Auxiliadora (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "María Inmaculada (C. Zaragoza)",
+        "Colegio": "María Inmaculada (C. Zaragoza)",
         "localizacion": "41.6512813, -0.9195688",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Martina Bescós (I.E.S. Cuarte de Huerva)",
+        "Colegio": "Martina Bescós (I.E.S. Cuarte de Huerva)",
         "localizacion": "41.5782023, -0.9528238",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Matarranya (C.R.A. Calaceite)",
+        "Colegio": "Matarranya (C.R.A. Calaceite)",
         "localizacion": "40.993488, 0.2713686",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Mateo Valero (C.P. Alfamén)",
+        "Colegio": "Mateo Valero (C.P. Alfamén)",
         "localizacion": "41.4382975, -1.2445873",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Miguel Catalán (I.E.S. Zaragoza)",
+        "Colegio": "Miguel Catalán (I.E.S. Zaragoza)",
         "localizacion": "41.6339829, -0.9023788999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 1,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 1,
+        "Total": 3
     },
     {
-        "colegio": "Miguel de Molinos (I.E.S. Zaragoza)",
+        "Colegio": "Miguel de Molinos (I.E.S. Zaragoza)",
         "localizacion": "41.6726936, -0.8964763000000001",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Miguel Servet (I.E.S. Zaragoza)",
+        "Colegio": "Miguel Servet (I.E.S. Zaragoza)",
         "localizacion": "41.6354532, -0.8900648",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 0,
-        "bachillerato": 1,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 0,
+        "Bachillerato": 1,
+        "Total": 1
     },
     {
-        "colegio": "Miralbueno (I.E.S. Zaragoza)",
+        "Colegio": "Miralbueno (I.E.S. Zaragoza)",
         "localizacion": "41.6596477, -0.9409867",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Moncayo (C.P. Tarazona)",
+        "Colegio": "Moncayo (C.P. Tarazona)",
         "localizacion": "41.9062462, -1.7222295",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Montearagón (C.R.A. Chimillas)",
+        "Colegio": "Montearagón (C.R.A. Chimillas)",
         "localizacion": "39.9646473, -4.630830500000001",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Montecanal (C.P. Zaragoza)",
+        "Colegio": "Montecanal (C.P. Zaragoza)",
         "localizacion": "41.6304687, -0.9365066000000001",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Montesnegros (C.R.A. Peñalba)",
+        "Colegio": "Montesnegros (C.R.A. Peñalba)",
         "localizacion": "41.5017116, -0.0379318",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Montessori (C. Zaragoza)",
+        "Colegio": "Montessori (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Ntra. Sra. del Carmen (C. Zaragoza)",
+        "Colegio": "Ntra. Sra. del Carmen (C. Zaragoza)",
         "localizacion": "41.7176738, -1.0281668",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Obra Diocesana Santo Domingo de Silos (C. Zaragoza)",
+        "Colegio": "Obra Diocesana Santo Domingo de Silos (C. Zaragoza)",
         "localizacion": "41.6463444, -0.8570875",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Parque Europa (C.P. Utebo)",
+        "Colegio": "Parque Europa (C.P. Utebo)",
         "localizacion": "41.7025545, -0.9988248",
-        "infantil": 0,
-        "primaria": 4,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 4,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Parque Venecia (C.P.I. Zaragoza)",
+        "Colegio": "Parque Venecia (C.P.I. Zaragoza)",
         "localizacion": "41.6180143, -0.8746837",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Pedro de Luna (I.E.S. Zaragoza)",
+        "Colegio": "Pedro de Luna (I.E.S. Zaragoza)",
         "localizacion": "41.652599, -0.8729676",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Pedro I (C.P. Barbastro)",
+        "Colegio": "Pedro I (C.P. Barbastro)",
         "localizacion": "42.0347585, 0.1326815",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Peñaflor de Gállego (C.P. Peñaflor)",
+        "Colegio": "Peñaflor de Gállego (C.P. Peñaflor)",
         "localizacion": "41.7610053, -0.7966751999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Pirámide (I.E.S. Huesca)",
+        "Colegio": "Pirámide (I.E.S. Huesca)",
         "localizacion": "42.1166422, -0.4477365",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Pirineos (I.E.S. Jaca)",
+        "Colegio": "Pirineos (I.E.S. Jaca)",
         "localizacion": "42.5778682, -0.5406035",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 0,
-        "bachillerato": 1,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 0,
+        "Bachillerato": 1,
+        "Total": 1
     },
     {
-        "colegio": "Pompiliano (C. Zaragoza)",
+        "Colegio": "Pompiliano (C. Zaragoza)",
         "localizacion": "41.6361194, -0.8898359",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Ramón Sainz de Varanda (C.P. Zaragoza)",
+        "Colegio": "Ramón Sainz de Varanda (C.P. Zaragoza)",
         "localizacion": "41.6256588, -0.8814535",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Ramón y Cajal (C.P. Cuarte de Huerva)",
+        "Colegio": "Ramón y Cajal (C.P. Cuarte de Huerva)",
         "localizacion": "41.5962142, -0.9331147",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Ramón y Cajal (I.E.S. Huesca)",
+        "Colegio": "Ramón y Cajal (I.E.S. Huesca)",
         "localizacion": "42.1390368, -0.4158933",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Reino de Aragón (C.P. La Puebla de Alfindén)",
+        "Colegio": "Reino de Aragón (C.P. La Puebla de Alfindén)",
         "localizacion": "41.63242169999999, -0.7497163",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Reyes Católicos (I.E.S. Ejea de los Caballeros)",
+        "Colegio": "Reyes Católicos (I.E.S. Ejea de los Caballeros)",
         "localizacion": "42.1284633, -1.1249557",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 2,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 2,
+        "Total": 4
     },
     {
-        "colegio": "Ricardo Mur (C.P. Casetas)",
+        "Colegio": "Ricardo Mur (C.P. Casetas)",
         "localizacion": "41.7221374, -1.0268957",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Río Ebro (C.P. Zaragoza)",
+        "Colegio": "Río Ebro (C.P. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Río Sena (C.P.I. Zaragoza)",
+        "Colegio": "Río Sena (C.P.I. Zaragoza)",
         "localizacion": "41.6562838, -0.9318677999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Romareda (C. Zaragoza)",
+        "Colegio": "Romareda (C. Zaragoza)",
         "localizacion": "41.6350994, -0.8985067",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Rosales del Canal (C.P.I. Zaragoza)",
+        "Colegio": "Rosales del Canal (C.P.I. Zaragoza)",
         "localizacion": "41.6357584, -0.9398352000000001",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sabina Albar (I.E.S. Bujaraloz)",
+        "Colegio": "Sabina Albar (I.E.S. Bujaraloz)",
         "localizacion": "41.4960329, -0.1524318",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sagrada Familia (C. Tarazona)",
+        "Colegio": "Sagrada Familia (C. Tarazona)",
         "localizacion": "41.4036299, 2.1743558",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sagrada Familia (C. Zaragoza)",
+        "Colegio": "Sagrada Familia (C. Zaragoza)",
         "localizacion": "41.6285509, -0.9114143",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Sagrado Corazón (C. Zaragoza)",
+        "Colegio": "Sagrado Corazón (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 1,
-        "primaria": 1,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 1,
+        "Primaria": 1,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "Sagrado Corazón de Jesús (C. Zaragoza)",
+        "Colegio": "Sagrado Corazón de Jesús (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sagrado Corazón-Moncayo (C. Zaragoza)",
+        "Colegio": "Sagrado Corazón-Moncayo (C. Zaragoza)",
         "localizacion": "41.63775440000001, -0.909014",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Salesianos Laviaga-Castillo (C. La Almunia de Doña Godina)",
+        "Colegio": "Salesianos Laviaga-Castillo (C. La Almunia de Doña Godina)",
         "localizacion": "41.478757, -1.3786004",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "San Agustín (C. Zaragoza)",
+        "Colegio": "San Agustín (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 4,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 5
+        "Infantil": 0,
+        "Primaria": 4,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 5
     },
     {
-        "colegio": "San Alberto Magno (I.E.S. Sabiñánigo)",
+        "Colegio": "San Alberto Magno (I.E.S. Sabiñánigo)",
         "localizacion": "42.5229373, -0.3646057",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "San Gabriel (C. Zuera)",
+        "Colegio": "San Gabriel (C. Zuera)",
         "localizacion": "41.8727147, -0.7914928",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "San Ginés (C.P. Lupiñén)",
+        "Colegio": "San Ginés (C.P. Lupiñén)",
         "localizacion": "42.1762759, -0.5806361999999999",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "San Javier (C.P. Escatrón)",
+        "Colegio": "San Javier (C.P. Escatrón)",
         "localizacion": "41.2904399, -0.3227744",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "San Roque (C.P. María de Huerva)",
+        "Colegio": "San Roque (C.P. María de Huerva)",
         "localizacion": "41.540099, -0.9946154999999999",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Santa Ana (C. Caspe)",
+        "Colegio": "Santa Ana (C. Caspe)",
         "localizacion": "41.23440069999999, -0.0408208",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Santa Ana (C. Fraga)",
+        "Colegio": "Santa Ana (C. Fraga)",
         "localizacion": "41.5234803, 0.3404344",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Santa Ana (C. Huesca)",
+        "Colegio": "Santa Ana (C. Huesca)",
         "localizacion": "42.131845, -0.4078058",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 8,
-        "bachillerato": 0,
-        "total": 11
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 8,
+        "Bachillerato": 0,
+        "Total": 11
     },
     {
-        "colegio": "Santa Ana (C. Zaragoza)",
+        "Colegio": "Santa Ana (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Santa María del Pilar (C. Zaragoza)",
+        "Colegio": "Santa María del Pilar (C. Zaragoza)",
         "localizacion": "41.6262853, -0.9001522999999999",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Santa Rosa - Altoaragón (C. Huesca)",
+        "Colegio": "Santa Rosa - Altoaragón (C. Huesca)",
         "localizacion": "42.1425598, -0.4152868",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Santa Rosa (C. Zaragoza)",
+        "Colegio": "Santa Rosa (C. Zaragoza)",
         "localizacion": "41.6474339, -0.8861451",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Santiago Hernández (I.E.S. Zaragoza)",
+        "Colegio": "Santiago Hernández (I.E.S. Zaragoza)",
         "localizacion": "41.6574613, -0.9160627",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sección de IES Benjamín Jarnés (Sástago)",
+        "Colegio": "Sección de IES Benjamín Jarnés (Sástago)",
         "localizacion": "41.3229827, -0.345598",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Segundo de Chomón (I.E.S. Teruel)",
+        "Colegio": "Segundo de Chomón (I.E.S. Teruel)",
         "localizacion": "40.32684, -1.09828",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sierra de Guara (I.E.S. Huesca)",
+        "Colegio": "Sierra de Guara (I.E.S. Huesca)",
         "localizacion": "42.1346186, -0.4039141",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sierra de La Virgen (I.E.S. Illueca)",
+        "Colegio": "Sierra de La Virgen (I.E.S. Illueca)",
         "localizacion": "41.5385704, -1.6247009",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sierra de San Quílez (I.E.S. Binéfar)",
+        "Colegio": "Sierra de San Quílez (I.E.S. Binéfar)",
         "localizacion": "41.8549239, 0.2895012",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Sobrarbe (I.E.S. Aínsa)",
+        "Colegio": "Sobrarbe (I.E.S. Aínsa)",
         "localizacion": "42.3544286, 0.1120696",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 2,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 2,
+        "Total": 3
     },
     {
-        "colegio": "Teresiano del Pilar (C. Zaragoza)",
+        "Colegio": "Teresiano del Pilar (C. Zaragoza)",
         "localizacion": "41.6746726, -0.9601785",
-        "infantil": 0,
-        "primaria": 2,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 2,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Torre de los Espejos (I.E.S. Utebo)",
+        "Colegio": "Torre de los Espejos (I.E.S. Utebo)",
         "localizacion": "41.7043939, -0.9939621999999999",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Torre Ramona (C.P. Zaragoza)",
+        "Colegio": "Torre Ramona (C.P. Zaragoza)",
         "localizacion": "41.6422452, -0.8637347",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Val de la Atalaya (C.P.I. María de Huerva)",
+        "Colegio": "Val de la Atalaya (C.P.I. María de Huerva)",
         "localizacion": "41.5422336, -0.9987312",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Valdespartera (I.E.S. Zaragoza)",
+        "Colegio": "Valdespartera (I.E.S. Zaragoza)",
         "localizacion": "41.6260383, -0.9308818000000001",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 1,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 1,
+        "Total": 2
     },
     {
-        "colegio": "Valdespartera III (C.P.I. Zaragoza)",
+        "Colegio": "Valdespartera III (C.P.I. Zaragoza)",
         "localizacion": "41.6267092, -0.9340685999999998",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 4
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 4
     },
     {
-        "colegio": "Valle del Guadalope (I.E.S. Calanda)",
+        "Colegio": "Valle del Guadalope (I.E.S. Calanda)",
         "localizacion": "40.9470302, -0.2369614",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 2,
-        "bachillerato": 0,
-        "total": 2
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 2,
+        "Bachillerato": 0,
+        "Total": 2
     },
     {
-        "colegio": "Valle del Jiloca (I.E.S. Calamocha)",
+        "Colegio": "Valle del Jiloca (I.E.S. Calamocha)",
         "localizacion": "40.9224699, -1.2950276",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Vega del Turia (I.E.S. Teruel)",
+        "Colegio": "Vega del Turia (I.E.S. Teruel)",
         "localizacion": "40.341081, -1.108664",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 3,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 3,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Vero-Alcanadre (C.R.A. Adahuesca)",
+        "Colegio": "Vero-Alcanadre (C.R.A. Adahuesca)",
         "localizacion": "42.1437168, -0.0094552",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Villanueva de Gállego (I.E.S. Villanueva de Gállego)",
+        "Colegio": "Villanueva de Gállego (I.E.S. Villanueva de Gállego)",
         "localizacion": "41.7644577, -0.8282594",
-        "infantil": 0,
-        "primaria": 0,
-        "eso": 1,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 0,
+        "ESO": 1,
+        "Bachillerato": 0,
+        "Total": 1
     },
     {
-        "colegio": "Virgen del Pilar (C.P. Calanda)",
+        "Colegio": "Virgen del Pilar (C.P. Calanda)",
         "localizacion": "40.9386132, -0.2314692",
-        "infantil": 0,
-        "primaria": 3,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 3
+        "Infantil": 0,
+        "Primaria": 3,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 3
     },
     {
-        "colegio": "Zalfonada (C.P. Zaragoza)",
+        "Colegio": "Zalfonada (C.P. Zaragoza)",
         "localizacion": "41.677026, -0.8775719",
-        "infantil": 0,
-        "primaria": 1,
-        "eso": 0,
-        "bachillerato": 0,
-        "total": 1
+        "Infantil": 0,
+        "Primaria": 1,
+        "ESO": 0,
+        "Bachillerato": 0,
+        "Total": 1
     }
 ]
