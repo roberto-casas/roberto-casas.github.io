@@ -178,14 +178,13 @@ $(document).ready(function() {
         let lng = parseFloat(localizacion.split(",")[1]);
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
-        const pin = new PinElement({
-            scale: 1.5,
-        });
+        let content = document.createElement("div");
+        content.innerHTML = data[i].colegio;
 
         let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
             map: null,
-            content: pin.element,
+            content: content,
         });
 
         marker.addListener("click", () => {
