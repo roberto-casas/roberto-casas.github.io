@@ -84,6 +84,7 @@ function initMap() {
 }
 
 function toggleTotales() {
+    heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
         // Strip the localizacion string
@@ -104,6 +105,7 @@ function toggleTotales() {
 }
 
 function toggleInfantil() {
+    heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
         let localizacion = data[i].localizacion;
@@ -113,12 +115,19 @@ function toggleInfantil() {
             points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Infantil });
         }
     }
-
-    heatmap.data = points;
+    heatmap = new google.maps.visualization.HeatmapLayer({
+      data: points,
+      map: map,
+      gradient: gradient,
+      radius: 25,
+        opacity: 1,
+    });
+    heatmap.setMap(map);
 
 }
 
 function togglePrimaria() {
+    heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
         let localizacion = data[i].localizacion;
@@ -128,11 +137,18 @@ function togglePrimaria() {
             points.push({ location: new google.maps.LatLng(lat, lng), weight: data[i].Primaria });
         }
     }
-
-    heatmap.data = points;
+    heatmap = new google.maps.visualization.HeatmapLayer({
+      data: points,
+      map: map,
+      gradient: gradient,
+      radius: 25,
+      opacity: 1,
+  });
+    heatmap.setMap(map);
 }
 
 function toggleBachillerato() {
+    heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
         let localizacion = data[i].localizacion;
@@ -143,10 +159,18 @@ function toggleBachillerato() {
         }
     }
 
-    heatmap.data = points;
+    heatmap = new google.maps.visualization.HeatmapLayer({
+      data: points,
+      map: map,
+      gradient: gradient,
+      radius: 25,
+      opacity: 1,
+    });
+    heatmap.setMap(map);
 }
 
 function toggleESO() {
+    heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
         let localizacion = data[i].localizacion;
@@ -157,7 +181,14 @@ function toggleESO() {
         }
     }
 
-    heatmap.data = points;
+    heatmap = new google.maps.visualization.HeatmapLayer({
+      data: points,
+      map: map,
+      gradient: gradient,
+      radius: 25,
+      opacity: 1,
+    });
+    heatmap.setMap(map);
 }
 
 
@@ -193,7 +224,7 @@ $(document).ready(function() {
             // Add all data to content by lines
             for(let key in data[i]) { 
               if(key != "localizacion") {
-                if(key == "colegio" || data[i][key] > 0) {
+                if(key == "Colegio" || data[i][key] > 0) {
                   content.innerHTML += `<b>${key}:</b> ${data[i][key]}<br>`;
                 }
               }
