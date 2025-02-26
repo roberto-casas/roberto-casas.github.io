@@ -36,6 +36,7 @@ function initMap() {
   map.addListener("zoom_changed", () => {
     const zoom = map.getZoom();
 
+    console.log(zoom);
     if (zoom) {
       // Only show each marker above a certain zoom level.
       markers.forEach(marker => {
