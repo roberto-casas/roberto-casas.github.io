@@ -134,12 +134,6 @@ function toggleInfantil() {
     });
     heatmap.setMap(map);
 
-    if(zoom > 12) {
-      markers.forEach(marker => {
-        console.log(marker.content);
-      });
-    }
-
 }
 
 function togglePrimaria() {
