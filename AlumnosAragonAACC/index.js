@@ -85,8 +85,9 @@ function initMap() {
 
 function toggleTotales() {
   if(heatmap) {
-    heatmap.setMap(null);
-    let points = [];
+    heatmap.setMap(null);ç
+  }
+  let points = [];
     for(let i = 0; i < data.length; i++) {
         // Strip the localizacion string
         let localizacion = data[i].localizacion;
