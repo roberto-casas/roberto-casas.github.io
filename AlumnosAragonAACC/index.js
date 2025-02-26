@@ -33,9 +33,11 @@ function initMap() {
 
   });
 
+  let zoom = 8;
+
   map.addListener("zoom_changed", () => {
     console.log("zoom_changed");
-    const zoom = map.getZoom();
+    zoom = map.getZoom();
 
     console.log(zoom);
     if (zoom) {
@@ -104,6 +106,12 @@ function toggleTotales() {
         opacity: 1,
     });
     heatmap.setMap(map);
+
+    if(zoom > 12) {
+      markers.forEach(marker => {
+        marker.map = map;
+      });
+    }
 }
 
 function toggleInfantil() {
@@ -125,6 +133,12 @@ function toggleInfantil() {
         opacity: 1,
     });
     heatmap.setMap(map);
+
+    if(zoom > 12) {
+      markers.forEach(marker => {
+        console.log(marker.content);
+      });
+    }
 
 }
 
@@ -227,7 +241,7 @@ $(document).ready(function() {
             for(let key in data[i]) { 
               if(key != "localizacion") {
                 if(key == "Colegio" || data[i][key] > 0) {
-                  content.innerHTML += `<b>${key}:</b> ${data[i][key]}<br>`;
+                  content.innerHTML += `<span class="${key}"><b>${key}:</b> ${data[i][key]}<br></span>`;
                 }
               }
             }
