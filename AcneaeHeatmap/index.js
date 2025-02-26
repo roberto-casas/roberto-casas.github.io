@@ -178,17 +178,18 @@ $(document).ready(function() {
         let lng = parseFloat(localizacion.split(",")[1]);
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
-        let content = document.createElement("div");
-        content.innerHTML = data[i].colegio;
+        const pin = new PinElement({
+            scale: 1.5,
+        });
 
         let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
             map: null,
-            content: content,
+            content: pin.element,
         });
 
         marker.addListener("click", () => {
-            console.log(data[i].colegio);
+            toastr.success(data[i].colegio);
         });
         markers.push(marker);
     }
