@@ -104,12 +104,6 @@ function toggleTotales() {
         opacity: 1,
     });
     heatmap.setMap(map);
-
-    if(zoom > 12) {
-      markers.forEach(marker => {
-        marker.map = map;
-      });
-    }
 }
 
 function toggleInfantil() {
