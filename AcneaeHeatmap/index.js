@@ -33,6 +33,17 @@ function initMap() {
 
   });
 
+  map.addListener("zoom_changed", () => {
+    const zoom = map.getZoom();
+
+    if (zoom) {
+      // Only show each marker above a certain zoom level.
+      markers.forEach(marker => {
+        marker.map = zoom > 14 ? map : null;
+      });
+    }
+  });
+
   // Boundary place ID: ChIJ-W5lP-4UWQ0RWP14-ZVCICA
 /*  featureLayer = map.getFeatureLayer("LOCALITY");
   const featureStyleOptions = {
@@ -150,6 +161,8 @@ function toggleESO() {
 
 window.initMap = initMap;
 
+let markers = [];
+
 $(document).ready(function() {
   $.getJSON("./data.json", function (response) {
     data = response;
@@ -167,12 +180,13 @@ $(document).ready(function() {
             scale: 0.5,
         });
 
-/*        let marker = new AdvancedMarkerElement({
+        let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
             title: data[i].colegio,
-            map: map,
+            map: null,
             content: pin.element,
-        });*/
+        });
+        markers.push(marker);
     }
     }, 1000);
 
