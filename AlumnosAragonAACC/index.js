@@ -84,6 +84,7 @@ function initMap() {
 }
 
 function toggleTotales() {
+  if(heatmap) {
     heatmap.setMap(null);
     let points = [];
     for(let i = 0; i < data.length; i++) {
