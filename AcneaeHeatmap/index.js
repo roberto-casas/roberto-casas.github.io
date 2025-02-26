@@ -41,7 +41,7 @@ function initMap() {
     if (zoom) {
       // Only show each marker above a certain zoom level.
       markers.forEach(marker => {
-        marker.map = zoom > 11 ? map : null;
+        marker.map = zoom > 12 ? map : null;
       });
     }
   });
@@ -179,14 +179,17 @@ $(document).ready(function() {
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
-            scale: 0.5,
+            scale: 1.5,
         });
+
+        let content = document.createElement("div");
+        content.innerHTML = data[i].colegio;
 
         let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
             title: data[i].colegio,
             map: null,
-            content: pin.element,
+            content: content,
         });
         markers.push(marker);
     }
