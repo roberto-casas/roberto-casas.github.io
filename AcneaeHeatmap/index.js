@@ -184,7 +184,6 @@ $(document).ready(function() {
 
         let marker = new AdvancedMarkerElement({
             position: new google.maps.LatLng(lat, lng),
-            title: data[i].colegio,
             map: null,
             content: pin.element,
         });
