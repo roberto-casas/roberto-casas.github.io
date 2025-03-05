@@ -37,7 +37,6 @@ function initMap() {
     console.log("zoom_changed");
     let zoom = map.getZoom();
 
-    console.log(zoom);
     if (zoom) {
       // Only show each marker above a certain zoom level.
       markers.forEach(marker => {
@@ -212,7 +211,7 @@ $(document).ready(function() {
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
-            scale: 0.8,
+            scale: 1.0,
         });
 
         let marker = new AdvancedMarkerElement({
