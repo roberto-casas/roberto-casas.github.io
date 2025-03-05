@@ -211,7 +211,7 @@ $(document).ready(function() {
         const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
-            scale: 1.0,
+        //    scale: 1.0,
         });
 
         let marker = new AdvancedMarkerElement({
