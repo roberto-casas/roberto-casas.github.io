@@ -19,7 +19,7 @@
     },
     {
         "Colegio": "Alto Gállego (C.R.A. Biescas)",
-        "localizacion": "42.5250446, -0.3604989",
+        "localizacion": "42.6282724,-0.3398268",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -721,7 +721,7 @@
     },
     {
         "Colegio": "Margarita Salas (C.P. Zaragoza)",
-        "localizacion": "41.6570646, -0.9326258",
+        "localizacion": "41.6355811, -0.9076485",
         "Infantil": 0,
         "Primaria": 3,
         "ESO": 0,
@@ -757,7 +757,7 @@
     },
     {
         "Colegio": "Matarranya (C.R.A. Calaceite)",
-        "localizacion": "40.993488, 0.2713686",
+        "localizacion": "41.0142126,0.1843281",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -829,7 +829,7 @@
     },
     {
         "Colegio": "Montecanal (C.P. Zaragoza)",
-        "localizacion": "41.6304687, -0.9365066000000001",
+        "localizacion": "41.6273613,-0.9350804",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -1054,7 +1054,7 @@
     },
     {
         "Colegio": "Sagrada Familia (C. Zaragoza)",
-        "localizacion": "41.6285509, -0.9114143",
+        "localizacion": "41.6232972,-0.9090865",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 2,
@@ -1117,7 +1117,7 @@
     },
     {
         "Colegio": "San Gabriel (C. Zuera)",
-        "localizacion": "41.8727147, -0.7914928",
+        "localizacion": "41.8735839,-0.7583863",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
@@ -1207,7 +1207,7 @@
     },
     {
         "Colegio": "Santa Rosa (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6516078,-0.886503",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
