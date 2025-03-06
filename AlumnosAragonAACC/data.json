@@ -289,7 +289,7 @@
     },
     {
         "Colegio": "El Buen Pastor (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6296746,-0.8846395",
         "Infantil": 0,
         "Primaria": 2,
         "ESO": 2,
@@ -730,7 +730,7 @@
     },
     {
         "Colegio": "María Auxiliadora (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.635849,-0.8826102",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -856,7 +856,7 @@
     },
     {
         "Colegio": "Ntra. Sra. del Carmen (C. Zaragoza)",
-        "localizacion": "41.7176738, -1.0281668",
+        "localizacion": "41.6457063,-0.8839552",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
