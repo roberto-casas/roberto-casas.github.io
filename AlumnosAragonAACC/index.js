@@ -204,11 +204,11 @@ $(document).ready(function() {
 
   setTimeout(async function() {
     toggleTotales();
+    const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
     for(let i = 0; i < data.length; i++) {
         let localizacion = data[i].localizacion;
         let lat = parseFloat(localizacion.split(",")[0]);
         let lng = parseFloat(localizacion.split(",")[1]);
-        const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const pin = new PinElement({
         //    scale: 1.0,
@@ -219,6 +219,8 @@ $(document).ready(function() {
             map: null,
             content: pin.element,
         });
+
+        console.log(data[i].Colegio + " " + lat + "-" + lng);
 
         marker.addListener("click", () => {
             let content = document.createElement("div");
