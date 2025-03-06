@@ -220,7 +220,7 @@ $(document).ready(function() {
             content: pin.element,
         });
 
-        console.log(data[i].Colegio + " " + lat + "-" + lng);
+        console.log(data[i].Colegio + " " + lat + "," + lng);
 
         marker.addListener("click", () => {
             let content = document.createElement("div");
