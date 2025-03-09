@@ -181,7 +181,7 @@
     },
     {
         "Colegio": "Colegio El Salvador zargoza",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6327416,-0.9036374",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 3,
@@ -1018,7 +1018,7 @@
     },
     {
         "Colegio": "Romareda (C. Zaragoza)",
-        "localizacion": "41.6350994, -0.8985067",
+        "localizacion": "41.6341488,-0.9103826",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 2,
@@ -1099,7 +1099,7 @@
     },
     {
         "Colegio": "San Agustín (C. Zaragoza)",
-        "localizacion": "41.6434742,-0.8879169",
+        "localizacion": "41.6414256,-0.8872464",
         "Infantil": 0,
         "Primaria": 4,
         "ESO": 1,
@@ -1180,7 +1180,7 @@
     },
     {
         "Colegio": "Santa Ana (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6292882,-0.875642",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
@@ -1270,7 +1270,7 @@
     },
     {
         "Colegio": "Sobrarbe (I.E.S. Aínsa)",
-        "localizacion": "42.3544286, 0.1120696",
+        "localizacion": "42.4114631,0.1365455",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
