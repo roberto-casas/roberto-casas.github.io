@@ -226,7 +226,7 @@
     },
     {
         "Colegio": "Cristo Rey (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6873823,-0.8724371",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
@@ -442,7 +442,7 @@
     },
     {
         "Colegio": "Inmaculada Concepción (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.646377,-0.8772854",
         "Infantil": 0,
         "Primaria": 0,
         "ESO": 1,
@@ -847,7 +847,7 @@
     },
     {
         "Colegio": "Montessori (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6452175,-0.8917102",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -1000,7 +1000,7 @@
     },
     {
         "Colegio": "Río Ebro (C.P. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6689937,-0.8973544",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -1063,7 +1063,7 @@
     },
     {
         "Colegio": "Sagrado Corazón (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6421789,-0.9040738",
         "Infantil": 1,
         "Primaria": 1,
         "ESO": 3,
@@ -1072,7 +1072,7 @@
     },
     {
         "Colegio": "Sagrado Corazón de Jesús (C. Zaragoza)",
-        "localizacion": "41.6474339, -0.8861451",
+        "localizacion": "41.6710964,-0.8855236",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 0,
@@ -1081,7 +1081,7 @@
     },
     {
         "Colegio": "Sagrado Corazón-Moncayo (C. Zaragoza)",
-        "localizacion": "41.63775440000001, -0.909014",
+        "localizacion": "41.6377584,-0.9115889",
         "Infantil": 0,
         "Primaria": 1,
         "ESO": 1,
